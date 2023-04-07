@@ -13,6 +13,9 @@ a{
     padding: 5px;
 
 }
+header{
+    text-align: center;
+}
 body{
     background-color: lightgreen;
 }
@@ -20,4 +23,5 @@ body{
     display : flex;
     justify-content: center;
     align-items: flex-end;
+    padding-top: 5em;
 }
