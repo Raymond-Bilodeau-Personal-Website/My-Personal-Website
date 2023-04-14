@@ -2,8 +2,8 @@
 ## Table of Contents
 ## Description
 ## Technology Used
--HTML
--CSS 
--JAVASCRIPT
+- HTML
+- CSS 
+- JAVASCRIPT
 ## Credits
 Me
